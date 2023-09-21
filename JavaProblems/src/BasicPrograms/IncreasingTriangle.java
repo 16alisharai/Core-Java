@@ -1,4 +1,4 @@
-/*
+package BasicPrograms;/*
 o/p
 1
 2 3

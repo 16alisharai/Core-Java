@@ -1,3 +1,5 @@
+package ArraysInJava;
+
 public class Array {
 
     int a[]= new int[5]; //define an integer array with 5 elements

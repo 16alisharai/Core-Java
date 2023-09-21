@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 /*
 o/p
 1234

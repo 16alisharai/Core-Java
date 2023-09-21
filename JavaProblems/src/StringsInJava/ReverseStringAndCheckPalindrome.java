@@ -1,3 +1,5 @@
+package StringsInJava;
+
 public class ReverseStringAndCheckPalindrome {
     public static void main(String args[]){
 

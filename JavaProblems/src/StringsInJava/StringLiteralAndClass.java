@@ -1,4 +1,6 @@
-public class String_ {
+package StringsInJava;
+
+public class StringLiteralAndClass {
 
     public static void main(String args[]) {
 
@@ -13,9 +15,11 @@ public class String_ {
     b = "hello";
 
     In background the compiler created an object of string class and assigned this value to it.
-    Now again when compiler encounters similar string , it does not create a separate object rather it assigns the string to same object.
+    Now again when compiler encounters similar string , it does not create a separate object (separate memory) rather it assigns the string to same object.
+
 
     */
+
 
         //String Methods
 

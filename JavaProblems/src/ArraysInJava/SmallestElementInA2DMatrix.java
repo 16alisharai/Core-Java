@@ -1,3 +1,5 @@
+package ArraysInJava;
+
 public class SmallestElementInA2DMatrix {
 
     public static void main(String[] args) {
