@@ -2,7 +2,7 @@ package AbstractClass;
 
 //Shows necessary details (what) , hides unnecessary details (how)
 //Can have both implemented and non-implemented methods or say can have both abstract method and concrete method
-//Excpet private we can have any access specifier
+//Except private we can have any access specifier
 //Any method not having implementation is called as abstract method
 //Partial Abstraction
 //unimplemented methods (abstract) become necessary to be implemented in child class

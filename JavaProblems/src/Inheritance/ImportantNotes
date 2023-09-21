@@ -1,0 +1,37 @@
+#Point-1
+
+Suppose we have a class say class-A
+
+public void classA{
+int i=10;
+}
+
+We have another class extending A
+
+public void classB extends classA{
+int i=20;
+}
+
+Now in our main function we create an object of classB pointing to class A
+
+public static void main(String Args[]){
+
+classA b = new classB();
+System.out.println(b.i);  //o/p will be 10 and not 20
+}
+
+
+
+#Point-2
+
+Multiple inheritance not possible in Java
+for eg-
+class1- P1
+class2- P2
+class3- C1
+
+we cannot do- c1 extends P1,P2
+
+For multiple inheritance we depend on interfaces
+
+
