@@ -1,6 +1,6 @@
 
 
-In this repository, I have shared solutions of few of the problems based on core Java asked in various Sdet/QA interviews.
+In this repository, I have shared solutions of few of the problems based on core Java concepts asked in various Sdet/QA interviews. This repository also contains programs related to OOPS concepts.
 
 Steps-
 
