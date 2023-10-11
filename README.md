@@ -1,6 +1,6 @@
 
 
-In this repository, I have shared solutions of few of the problems based on core Java concepts asked in various Sdet/QA interviews. This repository also contains examples to understand OOPS concept in a better way.
+In this repository, I have shared core Java concepts through various examples. I have tried to cover almost all the core java related concepts.
 
 Steps-
 
