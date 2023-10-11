@@ -1,6 +1,6 @@
 
 
-In this repository, I have shared core Java concepts through various examples. I have tried to cover almost all the core java related concepts.
+In this repository I have tried to cover almost all the core java related concepts and solutions to few of the coding problems.
 
 Steps-
 
