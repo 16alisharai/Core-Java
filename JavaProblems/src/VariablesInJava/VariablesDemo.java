@@ -64,10 +64,6 @@ public class VariablesDemo {
         getInteger(); //static methods don't require objects to call them
         VariablesDemo.i=4; //this way we can update value of static variables as well
 
-
-
-
-
     }
 
 
